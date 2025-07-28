@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(9, 9, 9);
+}
+.poster{
+    margin-top: 100px;
+    text-align: center;
+    color: bisque;
+}
+.image{
+    
+border: 5px solid white;
+
+}
